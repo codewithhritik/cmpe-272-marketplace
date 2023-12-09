@@ -1,3 +1,5 @@
+<?php include 'pageTracking.php'; ?>
+
 <!DOCTYPE html>
 
 <html lang="en">
@@ -18,22 +20,22 @@
                 <a class="nav-link active" href="../index.php">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../about.php">About</a>
+                <a class="nav-link" href="./about.php">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../productsNServices.php">Products And Services</a>
+                <a class="nav-link" href="./productsNServices.php">Products And Services</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../news.php">News</a>
+                <a class="nav-link" href="./news.php">News</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../contacts.php">Contacts</a>
+                <a class="nav-link" href="./contacts.php">Contacts</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../validateLogin.php">View Users</a>
+                <a class="nav-link" href="./validateLogin.php">View Users</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../user.php">User</a>
+                <a class="nav-link" href="./user.php">User</a>
             </li>
         </ul>
     </div>

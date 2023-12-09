@@ -1,3 +1,4 @@
+
 <?php
 // Check if the tracking cookie exists. If not, create one.
 if (!isset($_COOKIE['user_tracking'])) {

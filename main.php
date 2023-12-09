@@ -21,11 +21,11 @@
             <button>Visit FlexiFit</button>
         </a>
         
-        <a href="Knight/index.php" class="px-6 py-2 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700">
+        <a href="playpal/index.php" class="px-6 py-2 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700">
             <button>Visit Playpal</button>
         </a>
 
-        <a href="rashmi/index.php" class="px-6 py-2 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-red-600">
+        <a href="creativehaven/index.php" class="px-6 py-2 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-red-600">
             <button>Visit Creative Haven</button>
         </a>
     </div>

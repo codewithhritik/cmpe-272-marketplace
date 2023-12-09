@@ -1,3 +1,4 @@
+<?php include 'pageTracking.php'; ?>
 <?php
 
 include $_SERVER['DOCUMENT_ROOT'] . '/includes/navigationBar.php';

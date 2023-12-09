@@ -1,3 +1,4 @@
+<?php include 'pageTracking.php'; ?>
 <?php
 
 function getTopRatedProducts($conn)

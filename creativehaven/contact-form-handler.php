@@ -1,3 +1,4 @@
+<?php include 'pageTracking.php'; ?>
 <?php
     $name = $_POST['name'];
     $visitor_email = $_POST['email'];

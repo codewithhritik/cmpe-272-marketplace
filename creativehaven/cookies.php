@@ -1,3 +1,4 @@
+<?php include 'pageTracking.php'; ?>
 <?php
 
     session_start();

@@ -51,7 +51,8 @@
             if ($decodedResponse['message']) {
             // Handle the decoded response
                 echo '<p class="text-center text-green-500">' . htmlspecialchars($decodedResponse['message']) . '</p>';
-
+                $userId = $decodedResponse['userId'];
+                setcookie('user_tracking', $userId, time() + 3600, '/');
                 header('Location: main.php');
             } else {
             // If decoding fails, use the raw response

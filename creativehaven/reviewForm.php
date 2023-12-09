@@ -1,3 +1,4 @@
+<?php include 'pageTracking.php'; ?>
 <?php
 $servername = "ro2padgkirvcf55m.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 $username = "k7s5awqd77n6azmg";
